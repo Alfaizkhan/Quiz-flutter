@@ -1,6 +1,11 @@
 # Quiz-flutter
 A Flutter Quiz application.
 
+## Screenshot
+
+<img src="https://github.com/Alfaizkhan/Quiz-flutter/blob/master/screenshot-1594727748688.jpg"  width="240" height="480">&nbsp;&nbsp; | <img src="https://github.com/Alfaizkhan/Quiz-flutter/blob/master/screenshot-1594727757128.jpg" width="240" height="480">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
